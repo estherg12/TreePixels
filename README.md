@@ -1,5 +1,5 @@
 # TreePixels
-Image Manipulation with BST
+Image Manipulation with BST (basic operations implemented, not with libraries)
 
 The program will execute two phases.
 1. The first phase will allow to the user to input two image names that will be used for input, and will load these images, each one in one queue of pixel objects. All pixel objects must include a field (named sumRGB) with sum of the values of R, G and B attributes of the pixel.
